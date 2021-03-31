@@ -10,3 +10,5 @@
 | Median Sort           | 0      | ---         |
 | Cheating Detection    | 0      | ---         |
 | Total                 | 41     | 10:41:11    |
+
+[[file:CodeJam2021_quali_tmaze.png]]
