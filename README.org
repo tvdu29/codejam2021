@@ -3,7 +3,7 @@
 * Qualification Round (Rank: 11427)
 
 | Exercice              | Points | Time        |
-| --------------------- | ------ | ----------- |
+|-----------------------+--------+-------------|
 | Reversort             | 7      | 02:12:57 +0 |
 | Moons and Umbrellas   | 16     | 02:55:51 +0 |
 | Reversort Engineering | 18     | 10:37:11 +1 |
