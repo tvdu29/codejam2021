@@ -1,0 +1,12 @@
+#+TITLE: CodeJam 2021
+#+AUTHOR: Tanguy Mazé
+* Qualification Round (Rank: 11427)
+
+| Exercice              | Points | Time        |
+| --------------------- | ------ | ----------- |
+| Reversort             | 7      | 02:12:57 +0 |
+| Moons and Umbrellas   | 16     | 02:55:51 +0 |
+| Reversort Engineering | 18     | 10:37:11 +1 |
+| Median Sort           | 0      | ---         |
+| Cheating Detection    | 0      | ---         |
+| Total                 | 41     | 10:41:11    |
