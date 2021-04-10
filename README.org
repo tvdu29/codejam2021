@@ -12,3 +12,12 @@
 | Total                 | 41     | 10:41:11    |
 
 [[file:CodeJam2021_quali_tmaze.png]]
+
+* Round A1 (Rank: 7532)
+
+| Exercice    | Points | Time       |
+|-------------+--------+------------|
+| Append Sort | 12     | 2:01:19 +0 |
+| Prime Time  | 0      | ---        |
+| Hacked Exam | 0      | ---        |
+| Total       | 12     | 2:01:19    |
