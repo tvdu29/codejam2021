@@ -11,7 +11,7 @@ fn solve(_case_no:&i32){
     let mut ret = 0usize;
     for i in 1..len_array {
         let init_size = nums[i].len();
-        while nums[i].parse::<usize>().unwrap() <= nums[i - 1].parse::<usize>().unwrap() {
+        while nums[i].parse::<f64>().unwrap() <= nums[i - 1].parse::<f64>().unwrap() {
             if nums[i].len() < nums[i - 1].len(){
                 let c = nums[i - 1].char_indices().filter_map(|e| if e.0 == nums[i].len() {Some(e.1)} else {None}).collect::<Vec<char>>()[0];
                 nums[i].push_str(c.to_string().as_str());
@@ -27,7 +27,7 @@ fn solve(_case_no:&i32){
             }
         }
     };
-    println!("debug: {:?}", nums);
+    //println!("debug: {:?}", nums);
     println!("Case #{}: {}", _case_no, ret);
 }
 

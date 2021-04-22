@@ -11,9 +11,7 @@
 | Cheating Detection    | 0      | ---         |
 | Total                 | 41     | 10:41:11    |
 
-[[file:CodeJam2021_quali_tmaze.png]]
-
-* Round A1 (Rank: 7532)
+* Round 1A (Rank: 7532)
 
 | Exercice    | Points | Time       |
 |-------------+--------+------------|
@@ -21,3 +19,5 @@
 | Prime Time  | 0      | ---        |
 | Hacked Exam | 0      | ---        |
 | Total       | 12     | 2:01:19    |
+
+[[file:CodeJam_2021_tmaze.png]]
